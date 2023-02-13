@@ -1,11 +1,5 @@
 ### Hello there 👋 
 
-
-- 📫 How to reach me:
-*Deo#0001* on Discord  💀
-
-- ⚡ Fun fact: Call me Deo
-
 <!--
 **gustamorim/gustamorim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
